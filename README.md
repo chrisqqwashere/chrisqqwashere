@@ -1,8 +1,12 @@
 ### Merhaba , Ben Atlas 👋
 
+---
+
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/187dzy4syuhmqhv0sqlal9bj3?si=6TIwpEVLQQG7gLdmkuFakg)
+
+---
 
 ### Connect with me:
 
@@ -10,6 +14,8 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+
+---
 
 ### Languages and Tools:
 
