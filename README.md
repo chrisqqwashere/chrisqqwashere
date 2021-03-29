@@ -4,7 +4,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/187dzy4syuhmqhv0sqlal9bj3?si=6TIwpEVLQQG7gLdmkuFakg)
+<img src="https://media.giphy.com/media/EmcVrAtwfhIukm9lc8/giphy.gif" alt="codeSTACKr Spotify Playing" width="350" />
 
 
 
