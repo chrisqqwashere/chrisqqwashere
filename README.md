@@ -1,8 +1,8 @@
 <h2>Hi there, I'm Atlas <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" height="20px"></h2>
 
   <a href="https://discord.com/users/829989168037756960"><img src="https://img.shields.io/badge/Discord%20-009eff.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="https://github.com/chrisqqwashere"><img src="https://img.shields.io/badge/Kobs%20-ffffff.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://www.youtube.com/channel/UCdnP6sZ2JCS5btg0jo4MBwQ"><img src="https://img.shields.io/badge/Kobs%20-ff3f3f.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/chrisqqwashere"><img src="https://img.shields.io/badge/Github%20-ffffff.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.youtube.com/channel/UCdnP6sZ2JCS5btg0jo4MBwQ"><img src="https://img.shields.io/badge/Youtube%20-ff3f3f.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 
  I'm a Back-End Developer!
  
