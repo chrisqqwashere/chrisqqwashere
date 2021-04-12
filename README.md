@@ -6,7 +6,11 @@
 
  I'm a Back-End Developer!
  
- 
+- 👯 I’m looking to collaborate with other content creators
+- 👌The Most Fun Language Typescript I've Found 
+- ⚡ Fun fact: I love to play Brawhalla
+
+
  ### Languages and Tools:
  
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -18,6 +22,5 @@
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=chriswashere&show_icons=true&hide_title=true&theme=merko">
 
