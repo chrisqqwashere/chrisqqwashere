@@ -7,9 +7,9 @@
  I'm a Back-End Developer!
  
 - 👯 I’m looking to collaborate with other content creators
-- 👌The Most Fun Language Typescript I've Found 
+- 👌 The Most Fun Language Typescript I've Found 
 - ⚡ Fun fact: I love to play Brawhalla
-
+- 💀 My team is devyork
 
  ### Languages and Tools:
  
