@@ -24,7 +24,9 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img align="left" alt="Nestjs" width="26px" src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" />
-<img align="left" alt="Lua" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/128px-Lua-Logo.svg.png" />
+<img align="left" alt="Nestjs" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/5/50/Angular-logo.png/>
+<img align="left" alt="Lua" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/128px-Lua-Logo.svg.png"/>
+
 <br>
 <br>
 <img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=chriswashere&show_icons=true&hide_title=true&theme=merko">
